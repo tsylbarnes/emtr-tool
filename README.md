@@ -1,3 +1,3 @@
-# EMTR Scenario Faily Tool
+# EMTR Scenario Family Tool
 
 Developed @ The Treasury - New Zealand
